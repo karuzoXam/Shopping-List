@@ -8,7 +8,7 @@ Dieses Projekt ist eine einfache Webanwendung, mit der Benutzer Einkaufslisten e
 - Benutzer können Gegenstände aus der Liste entfernen, indem sie auf sie klicken.
 
 ## Vorschau
-![Projekt-Screenshot](screenshot.png)
+![Projekt-Screenshot](Shopping_List.png)
 
 ## Technologien
 - HTML
