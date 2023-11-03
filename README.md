@@ -11,5 +11,7 @@ Dieses Projekt ist eine einfache Webanwendung, mit der Benutzer Einkaufslisten e
 ![Projekt-Screenshot](screenshot.png)
 
 ## Technologien
+- HTML
+- CSS
 - JavaScript
 - Firebase Realtime Database
